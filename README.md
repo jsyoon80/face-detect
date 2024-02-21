@@ -1,2 +1,2 @@
-# face-detect
-connect cloud practice
+
+# Face Detection using OpenCV and Streamlit
